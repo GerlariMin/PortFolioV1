@@ -1,0 +1,70 @@
+
+qjavascript:S3776"URefactor this function to reduce its Cognitive Complexity from 794 to the 15 allowed.(ˆè²Ô
+Njavascript:S1117
+"-'obj' is already declared in the upper scope.(ˆã›¸üÿÿÿÿ
+Njavascript:S1117"-'obj' is already declared in the upper scope.(ˆã›¸üÿÿÿÿ
+hjavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Â¢Ë 
+;javascript:S1143y"Unsafe usage of ThrowStatement.(ŸèÉç
+>javascript:S1186ˆ"!Unexpected empty function 'noop'.(û°ÃŒ
+3javascript:S1763´"Unreachable code.(ùºŸ­şÿÿÿÿ
+Jjavascript:S1117ô".'_ref' is already declared in the upper scope.(ó•Ÿ-
+Cjavascript:S1186¹"!Unexpected empty function 'NOOP'.(™¬ÁÌıÿÿÿÿ
+njavascript:S4138Â"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÒÛâ·ıÿÿÿÿ
+Mjavascript:S1117’"1'resolve' is already declared in the upper scope.(ÿÈêw
+Ljavascript:S1117’"0'reject' is already declared in the upper scope.(ÿÈêw
+Mjavascript:S1117¶"1'resolve' is already declared in the upper scope.(ÿÈêw
+Ljavascript:S1117¶"0'reject' is already declared in the upper scope.(ÿÈêw
+Sjavascript:S1117È"1'resolve' is already declared in the upper scope.(šÂ¡ÿÿÿÿÿ
+Mjavascript:S1117Î"1'resolve' is already declared in the upper scope.(ÿÈêw
+Ljavascript:S1117Î"0'reject' is already declared in the upper scope.(ÿÈêw
+Jjavascript:S1117ì"-'css' is already declared in the upper scope.(€§ ğ
+Mjavascript:S1117³"0'styles' is already declared in the upper scope.(ÚŞÇ€
+Jjavascript:S1117»".'_ref' is already declared in the upper scope.(´ˆİe
+Kjavascript:S1117".'_ref' is already declared in the upper scope.(ÊÕ¨í
+Kjavascript:S1117É".'_ref' is already declared in the upper scope.(¬ˆ³–
+Mjavascript:S1117Î"0'styles' is already declared in the upper scope.(…Êşù
+Pjavascript:S1117ò".'_ref' is already declared in the upper scope.(ôüßıÿÿÿÿ
+Rjavascript:S1117÷"0'styles' is already declared in the upper scope.(Ä¶Ñ×ûÿÿÿÿ
+Kjavascript:S1117".'_ref' is already declared in the upper scope.(´ğğ¨
+Kjavascript:S1117°".'_ref' is already declared in the upper scope.(ş·ºÇ
+Rjavascript:S1117û"0'styles' is already declared in the upper scope.(‘ÚÏıÿÿÿÿ
+Kjavascript:S1117Å".'noop' is already declared in the upper scope.(«Í†Õ
+>javascript:S1186Å"!Unexpected empty function 'noop'.(«Í†Õ
+Hjavascript:S1117ä"+'d' is already declared in the upper scope.(„ÆœÖ
+Kjavascript:S1117	".'icon' is already declared in the upper scope.(š§‘
+Pjavascript:S1117É	".'icon' is already declared in the upper scope.(æ±·ùÿÿÿÿÿ
+Pjavascript:S1117Ğ	".'icon' is already declared in the upper scope.(šÙË›úÿÿÿÿ
+Kjavascript:S1117ª
+".'noop' is already declared in the upper scope.(ôìÜ
+>javascript:S1186ª
+"!Unexpected empty function 'noop'.(ôìÜ
+Sjavascript:S1117»
+"1'replace' is already declared in the upper scope.(Ò ˆ¥øÿÿÿÿ
+Qjavascript:S1117É"/'style' is already declared in the upper scope.(€‰¡øÿÿÿÿ
+Rjavascript:S1117Ê"0'styles' is already declared in the upper scope.(İïİªüÿÿÿÿ
+fjavascript:S3358·"DExtract this nested ternary operation into an independent statement.(¸Î¸úÿÿÿÿÿ
+Pjavascript:S1117Ô".'icon' is already declared in the upper scope.(ÎÂ§ƒúÿÿÿÿ
+Njavascript:S1117†"1'resolve' is already declared in the upper scope.(˜Ê…
+Mjavascript:S1117†"0'reject' is already declared in the upper scope.(˜Ê…
+Jjavascript:S1117".'icon' is already declared in the upper scope.(è­µ
+Njavascript:S1117¥"1'resolve' is already declared in the upper scope.(˜Ê…
+Mjavascript:S1117¥"0'reject' is already declared in the upper scope.(˜Ê…
+Pjavascript:S1117¦".'_ref' is already declared in the upper scope.(ÙãĞ‰úÿÿÿÿ
+Pjavascript:S1117©".'mask' is already declared in the upper scope.(ÿâúšşÿÿÿÿ
+Mjavascript:S1117ò"+'p' is already declared in the upper scope.(·ñØşÿÿÿÿ
+Njavascript:S1117š"1'resolve' is already declared in the upper scope.(˜Ê…
+Mjavascript:S1117š"0'reject' is already declared in the upper scope.(˜Ê…
+Njavascript:S1117µ"1'resolve' is already declared in the upper scope.(˜Ê…
+Mjavascript:S1117µ"0'reject' is already declared in the upper scope.(˜Ê…
+Mjavascript:S1117¿"0'styles' is already declared in the upper scope.(«·Ò‚
+Njavascript:S1117ˆ"1'resolve' is already declared in the upper scope.(˜Ê…
+Mjavascript:S1117ˆ"0'reject' is already declared in the upper scope.(˜Ê…
+Ojavascript:S1117Š"-'end' is already declared in the upper scope.(‹ÒÛ¼üÿÿÿÿ
+Njavascript:S1117®"1'Library' is already declared in the upper scope.(åŒ”ô
+Kjavascript:S1117Ó".'icon' is already declared in the upper scope.(¡ûà¶
+<javascript:S1186¤"Unexpected empty function.(“ŸÆâşÿÿÿÿ
+Rjavascript:S1117â"0'styles' is already declared in the upper scope.(±¥ç³ıÿÿÿÿ
+Kjavascript:S1117æ".'icon' is already declared in the upper scope.(¨‡Ÿ¦
+Rjavascript:S1117—"0'styles' is already declared in the upper scope.(›Ãş‹ÿÿÿÿÿ
+Mjavascript:S1117²"0'styles' is already declared in the upper scope.(Ÿœßİ
+Qjavascript:S1117‡"/'shims' is already declared in the upper scope.(ğœÖŒıÿÿÿÿ

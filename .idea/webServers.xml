@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f440a8b8-2487-4d64-8c8c-0f4a4b9122a1" name="PortFolioV1" url="http://localhost/PortFoliov1">
+        <fileTransfer mountedRoot="C:\wamp64\www\PortFoliov1" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
